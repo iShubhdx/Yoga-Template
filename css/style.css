@@ -1,0 +1,111 @@
+/*slider*/
+.mclr{
+	color: rgba(0,0,0,0.9)!important;
+	/*box-shadow: 2px 2px 200px black;*/
+	/*text-shadow: 1px 1px 2px black;*/
+}
+.showtxt{
+	margin: 300px 0px;
+	font-family: times-new-roman;
+	font-weight: bolder;
+}
+/*slider over*/
+/*section 2 started*/
+.sec2{
+	background-color: white;
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 20px;
+}
+/*section 2 over*/
+
+/*section 3 started*/
+.sec3
+{
+	background-color:rgba(248,249,250,0.9);
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 100px 0px;	
+}
+.icn{
+	float: left;
+	font-size: 16px;
+}
+.imgg{
+	transition: 0.5s;
+}
+.imgg:hover{
+	transform: scale(0.9);
+}
+/*sectio 3 over*/
+/*section 4 started*/
+.sec4{
+	background-color:white;
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 100px 0px;		
+}
+.boxbg1{
+	background-image: url("../images/beach-calm-dawn-267967.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	width: 100%;
+	float: left;
+	clear: both;
+}
+/*section 4 over*/
+/*section 5 started*/
+.sec5{
+	background-color:white;
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 100px 0px;	
+}
+/*section 5 over*/
+/*section 6 started*/
+.sec6{
+	background-color:white;
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 100px 0px;	
+}
+/*section 6 over*/
+/*section 7 stared*/
+.sec7{
+	background-color:rgba(248,249,250,0.9);
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 100px 0px;
+}
+/*section 7 over*/
+/*section 8 started*/
+.sec8{
+	background-color:white;
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 130px 0px;
+}
+/*section 8 over*/
+/*footer started*/
+.footer
+{
+	background-color:black;
+	width: 100%;
+	float: left;
+	clear: both;
+	padding: 60px 0px;	
+}
+/*footer over*/
+.imh{
+	transition: 0.5s
+}
+.imh:hover{
+	transform: scale(1.2);
+}
